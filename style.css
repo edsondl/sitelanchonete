@@ -1,0 +1,151 @@
+h2 	
+{ 
+	color: #999;
+	margin-bottom: 0; 
+	margin-left:13px;
+	background:url(navigation.jpg) no-repeat;
+	height:40px;
+}
+
+h2 span
+{
+	display: none;
+}
+
+p	
+{ 
+	color: #ffff66; 
+	margin-top: .5em;
+	font-size: .75em;
+	padding-left:15px;	
+}
+
+#navigation-block {
+	position:relative;
+	top:0px;
+	left:0px;
+}
+
+#hide {
+	position:absolute;
+	top:30px;
+	left:-190px;
+}
+
+ul#sliding-navigation
+{
+	list-style: none;
+	font-size: .75em;
+	margin: 30px 0;
+	padding: 0;
+}
+
+ul#sliding-navigation li.sliding-element h3,
+ul#sliding-navigation li.sliding-element a
+{
+	display: block;
+	width: 150px;
+	padding: 5px 18px;
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+ul#sliding-navigation li.sliding-element h3
+{
+	color: #F00;
+	background:#333 url(heading_bg.jpg) repeat-y;
+	font-weight: normal;
+}
+
+ul#sliding-navigation li.sliding-element a
+{
+	color: #900;
+	background:#222 url(tab_bg.jpg) repeat-y;
+	border: 1px solid #1a1a1a;
+	text-decoration: none;
+}
+
+ul#sliding-navigation li.sliding-element a:hover { color: #ffff66; }
+
+#superior{width:583px;
+height:150px;
+	}
+#inferior{
+width:583px;
+height:200px;	
+	}
+
+#jquery{width:290px;
+height:470px;
+float:left;
+}
+#texto{width:291px:
+height:470px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size:11px;
+float:left;
+color:#fff;
+}
+body{
+background:url(imagens/fundo.png);
+	
+	}
+#layout{ width:1000px;
+margin:0 auto;
+	}
+#topo{width:1000px;
+height:180px;
+}
+
+	#esdi{
+		width:1000px;
+		height:500px;}
+	
+#esquerda{width:800px;
+height:500px;
+
+}
+#endereco{
+	width:800px;
+	height:30px;
+	background:url(imagens/ligue.jpg);
+	}
+#imagens{width:217px;
+height:470px;
+background:#F00;
+float:left;
+overflow:auto;
+text-align:center;
+font-family:Verdana, Geneva, sans-serif;
+font-size:20px;
+color:#FFF;
+font-weight:bold;
+}
+
+#esquerda{
+	float:left;}
+
+#centro{
+	width:583px;
+	height:470px;
+	float:left;
+	background:#F00;
+	text-align:center;
+	color:#FFFFFF;
+	overflow:auto;
+	}
+	
+#direita{width:200px;
+height:500px;
+background:#F00;
+float:left;
+text-align:center;}
+#rodape{
+	width:1000px;
+	height:40px;
+	background:url(imagens/rodape.jpg);
+	}
+	
+	
+	

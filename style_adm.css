@@ -1,0 +1,66 @@
+a:link {
+text-decoration:none;
+}
+body{
+background:url(imagens/fundo.png);
+	
+	}
+#layout{ width:1000px;
+margin:0 auto;
+	}
+#topo{width:1000px;
+height:180px;
+background:url(imagens/logo2.jpg);
+}
+
+	#esdi{
+		width:1000px;
+		height:500px;}
+	
+#esquerda{width:800px;
+height:500px;
+
+}
+#endereco{
+	width:800px;
+	height:30px;
+	background:url(imagens/ligue.jpg);
+	}
+#imagens{width:217px;
+height:470px;
+background:#F00;
+float:left;
+overflow:auto;
+text-align:center;
+font-family:Verdana, Geneva, sans-serif;
+font-size:20px;
+color:#FFF;
+font-weight:bold;
+}
+
+#esquerda{
+	float:left;}
+
+#centro{
+	width:583px;
+	height:470px;
+	float:left;
+	background:#F00;
+	text-align:center;
+	color:#FFFFFF;
+	overflow:auto;
+	}
+	
+#direita{width:200px;
+height:500px;
+background:#F00;
+float:left;
+text-align:center;}
+#rodape{
+	width:1000px;
+	height:40px;
+	background:url(imagens/rodape.jpg);
+	}
+	
+	
+	
